@@ -4,7 +4,7 @@
 
 ```
 pip install Flask
-python app.py
+python3 app.py
 ```
 
 ## Description
