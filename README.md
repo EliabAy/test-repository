@@ -1,6 +1,6 @@
 # My awesome REST API
 
-## Installtion
+## Installation
 
 '''
 pip install Flask
